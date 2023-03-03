@@ -28,7 +28,7 @@ affiliations:
   - idx: 2
     name: Woven Planet North America, Inc
 
-conference: NeurIPS 2022 workshop on Machine Learning for Autonomous Driving (ML4AD)
+conference: 2023 IEEE International Conference on Robotics and Automation (ICRA)<br/><small>Previously presented at the NeurIPS 2022 workshop on Machine Learning for Autonomous Driving (ML4AD)</small>
 
 links:
   - url: "https://arxiv.org/abs/2211.02131"
