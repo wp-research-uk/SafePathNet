@@ -64,10 +64,10 @@ We evaluated our approach through a realistic simulator and tested it on a real 
 ## Citation
 If you find our paper or code useful, please cite our work as:
 
-<pre><code>@article{pini2022safe,
+<pre><code>@inproceedings{pini2022safe,
   title={Safe Real-World Autonomous Driving by Learning to Predict and Plan with a Mixture of Experts},
-  author={Pini, Stefano and Perone, Christian S and Ahuja, Aayush and Ferreira, Ana Sofia Rufino and Niendorf, Moritz and Zagoruyko, Sergey},
-  journal={arXiv preprint arXiv:2211.02131},
-  year={2022}
+  author={Pini, Stefano and Perone, Christian S. and Ahuja, Aayush and Ferreira, Ana Sofia Rufino and Niendorf, Moritz and Zagoruyko, Sergey},
+  booktitle={2023 International Conference on Robotics and Automation (ICRA)},
+  year={2023}
 }</code>
 </pre>
